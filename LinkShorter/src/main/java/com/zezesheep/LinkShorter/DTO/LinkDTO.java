@@ -9,6 +9,6 @@ public class LinkDTO {
 
     private String originalUrl;
 
-    private String hash;
+    private String indexBase62;
     
 }
